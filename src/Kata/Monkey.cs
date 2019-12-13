@@ -14,6 +14,7 @@ namespace Kata
 
         public void Eat(string food)
         {
+            /*to test commit*/
             Belly.Add(food);
         }
     }
